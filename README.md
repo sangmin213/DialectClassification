@@ -1,1 +1,1 @@
-# DialectClassification
+# DialectClassification - AI Project
